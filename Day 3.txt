@@ -1,0 +1,32 @@
+Day 3: Html Basics, Boiler Plate, Editor
+
+<!DOCTYPE html> yesle chai browser lai kun version ko html use vako cha vaner determine garcha
+
+<html> this is an opening tag
+</html> this is an closing tag / (aayo vane closing tag huncha)
+ 
+<meta> yo chai SEO ko lagi use huncha 
+
+ <title> yo tag chai main top ma display garune lai ho
+
+<body>yo tag vitra chain sabai coding garincha
+
+<p> this is a paragraph tag
+
+Boiler Plate Structure :
+"<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bishnu</title> 
+</head>
+<body>
+    <p>Bishnu Budhathoki</p>
+</body>
+</html>"
+
+Editor : IDE/Editor (IDE ma chai compiler, debugger haru sabai huncha plus heavy pani huncha) but we use basic Editors like VS code and Sublime
+
+............................................................................................................................................................
+Digital Pathshala

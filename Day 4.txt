@@ -1,0 +1,99 @@
+Day 4: Tags, Semantic HTML
+
+
+
+Tags
+
+<p> </p>, <h1> </h1>, <div> </div>, etc.
+
+
+
+Elements:
+
+Opening tag + Content + Closing tag
+
+<p> this is paragraph tag </p>
+
+
+
+Heading tag
+
+heading tag ranges from h1-h6, h1 is the bigget and h6 is the smallest heading tag
+
+
+
+<h1> </h1>
+
+<h2> </h2>
+
+<h3> </h3>
+
+<h4> </h4>
+
+<h5> </h5>
+
+<h6> </h6>
+
+
+
+
+
+Paragraph tag
+
+
+
+This tag is used to write a paragraph
+
+<p> </p>
+
+
+
+
+
+List tag {Ordered List(ol), Unordered List(ul)}
+
+
+
+Ordered list (ol)
+
+1. One
+
+2. Two
+
+3. Three
+
+
+
+Unordered list (ul)
+
+- One
+
+- Two
+
+- Three
+
+
+
+Semantic Html
+
+These are tags made to easily identify codes instead of using the <div> tag.
+
+
+
+<header>
+
+<nav>
+
+<aside>
+
+<body>
+
+<article>
+
+<footer>
+
+
+
+............................................................................................................................................................
+
+Digital Pathshala

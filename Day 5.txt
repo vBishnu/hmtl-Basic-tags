@@ -1,0 +1,42 @@
+Day 5: Image, Hyperlink, Forms
+
+Images tags:
+this tag lets to put/show images on your website
+<img>
+alt attribute appears when we have bad connection or image is removed 
+<img src="./Images/example.jpg" alt="This is an exmaple image">
+
+
+Hyperlink:
+hyperlink is use to put links.
+
+<a href="https://www.youtube.com/"> YouTube</a>
+ target attribute open the link in new tab. By default the link open in the same tab.
+
+Forms:
+form tag is used to make forms such as signup form, login form etc..
+
+<input type="text" id="name" name="Your Name Here">
+- input tag represent a type of data field
+- type lets you determine what type of input like name, email, password
+- label tag lets you connect the text outside the box and input values
+
+
+Button:
+<input type="button" value="Login">
+- No default form submission
+- Inline Level
+- Cant put nested conent
+
+<button>Login</button>
+- Default form submission
+- Block level element
+- Can put nested conent like anchor tags
+
+Bonus Tips:
+<br> :- to  break line
+ctrl + / :- to comment the code/hide the code temporarily
+
+............................................................................................................................................................
+
+Digital Pathshala

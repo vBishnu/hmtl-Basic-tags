@@ -1,0 +1,30 @@
+Day 1 :
+
+Introduction to Html
+  Frontend - client (html/css/js, React, Vue, Angular, Svelte)
+  Backend - server (Nodejs, Laravel, Django, Spring Boot, .net)
+  Database - (Sql(Tabular Method), noSql(Code/List Method))
+  API - tools to connect Frontend and Backend
+
+
+Day2 :
+
+Http Verbs, Status Codes, Github
+
+  Https Verbs - POST, GET, PUT, PATCH, DELETE
+	POST - j kura pani create garnu paryo vane post garney
+	GET - yes bat chai pre existing data grab garna lai
+	PUT - to update data (old/flaw - dont use) 
+	PATCH - to update data (new) j change garne ho tei matra 		change garcha esle chai
+	DELETE - to delete/remove anything
+
+  Status Codes
+	100 codes - not needed now
+	200 codes - success vayo
+	300 codes - website redirected
+	400 codes - error from client/frontend
+	500 codes - error from server/backend
+
+  Github 
+	Storage unit for codes/images/videos
+	250mb limit per repository(repo)

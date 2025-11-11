@@ -1,0 +1,95 @@
+Day 6: CSS, Types of CSS, Properties
+
+
+
+
+
+CSS:
+
+CSS stands for Cascading Style Sheet. CSS is used to beautify the website to the user's desire.
+
+
+
+Types of CSS:
+
+
+
+There are 3 types of CSS
+
+1. Inline CSS
+
+2. Internal CSS
+
+3. External CSS
+
+
+
+1. Inline CSS:
+
+CSS is written directly inside HTML tags in this method
+
+
+
+<h1 style="color: #9226a0;">Hello Galaxy - This is a heading h1</h1>
+
+
+
+2. Internal CSS:
+
+CSS is written in the HTML file, but it is written inside the head tag in this method
+
+<head>
+
+
+
+<style>
+
+    h5 {
+
+      font-size: 200%;
+
+      background-color: tomato;
+
+    }
+
+</style>
+
+
+
+</head>
+
+
+
+3. External CSS
+
+CSS is written in a different file with the extension .css (style.css) and linked to the HTML file using the link tag in this method
+
+<link rel="stylesheet" href="style.css">
+
+
+
+
+
+Properties of CSS
+
+Some of the properties of CSS are:
+
+
+
+Color (RGB, RGBA, Hex, HSL)
+
+Font-Size
+
+Font-Family
+
+Background-Color
+
+text-align
+
+
+
+............................................................................................................................................................
+
+
+
+Digital Pathshala
