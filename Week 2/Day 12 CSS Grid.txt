@@ -1,0 +1,26 @@
+Day 12 : CSS Grid
+
+Grid:
+grid is a property used to make the bluprint of a website.
+
+some grid properties are:
+
+1. grid-template-rows
+2. grid-template-columns
+3. grid-template-areas
+
+1. grid-template-rows: this defines the size and number of the  rows.
+
+2. grid-template-columns: this defines the size and number of the  culomns.
+
+3. grid-template-areas: this defines the grid layout using named items to build blocks. this method is much easier than other as we can visually see in code what kind of result we can get.
+
+KIM: 1fr=1 fraction, minmax, repeat.
+
+
+
+
+............................................................................................................................................................
+
+
+Learning with Digital Pathshala

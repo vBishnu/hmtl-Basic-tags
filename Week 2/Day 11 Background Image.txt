@@ -1,0 +1,15 @@
+Day 11: Background-Image
+
+
+Background-Image:
+The background-image property sets one or more background images for an element.
+
+
+Tip: Always set a background-color to be used if the image is unavailable.
+
+
+
+............................................................................................................................................................
+
+
+Learning with Digital Pathshala
