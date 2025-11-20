@@ -1,0 +1,308 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 10px;
+    --primaryColor: #1074c5;
+    --secondaryColor: #fff;
+}
+
+nav {
+    background-color: #1074c5;
+    position: sticky;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40rem;
+}
+
+nav h1 {
+    animation: mainLogo 3s ease-in;
+    cursor: pointer;
+    font-size: 5rem;
+    color: var(--secondaryColor);
+}
+
+
+nav ul {
+    color: var(--secondaryColor);
+    list-style: none;
+    display: flex;
+    gap: 6rem;
+
+}
+
+
+nav ul li {
+    font-size: 2rem;
+    cursor: pointer;
+
+}
+
+nav ul li:hover {
+    color: aqua;
+    text-decoration: underline;
+
+}
+
+.main {
+    
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.main h1 {
+    position: relative;
+    bottom: 8rem;
+    color: var(--primaryColor);
+    font-size: 10rem;
+    animation: header 6s ease-in-out infinite;
+    animation-delay: 3s;
+
+}
+
+@keyframes header {
+
+    0% {
+        color: #1074c5;
+    }
+
+    50% {
+        color: #fff;
+    }
+
+    100% {
+        color: #1074c5;
+    }
+
+}
+
+.main p {
+    position: relative;
+    bottom: 7rem;
+    font-size: 2rem;
+    animation: paraGraph 5sec ease-in;
+}
+
+@keyframes paraGraph {
+    0% {
+        color: #fff
+    }
+
+    100% {
+        color: #000
+    }
+
+}
+
+
+.main button {
+    height: 5rem;
+    width: 15rem;
+    font-size: 2rem;
+    background-color: #0e80de;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    color: #fff;
+}
+
+.float{
+    position: fixed;
+}
+
+.box1 {
+    margin: 1rem;
+    background-color: #1074c5;
+    position: absolute;
+    height: 10rem;
+    width: 10rem;
+    rotate: 0deg;
+    animation: box1 12s ease-in-out infinite;
+}
+
+@keyframes box1 {
+    0% {
+        background-color: #1074c5;
+        left: 0px;
+        top: 0px;
+
+    }
+
+    25% {
+        background-color: #ffffff;
+        left: 2425px;
+        top: 0px
+        
+    }
+
+    50% {
+        background-color: #1074c5;
+        left: 2425px;
+        top: 1080px;
+
+    }
+
+    75% {
+        background-color: #ffffff;
+        left: 0px;
+        top: 1080px;
+
+    }
+
+    100% {
+        background-color: #1074c5;
+        left: 0px;
+        top: 0px;
+
+    }
+}
+
+.box2 {
+    margin: 1rem;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 11rem;
+    height: 10rem;
+    width: 10rem;
+    animation: box2 12s ease-in-out infinite;
+    animation-delay: 3s;
+    
+
+}
+
+@keyframes box2 {
+    0% {
+        background-color: #ffffff;
+        left: 0px;
+        top: 0px;
+        
+
+    }
+
+    25% {
+        background-color: #1074c5;
+        left: 2425px;
+        top: 0px
+    }
+
+    50% {
+        background-color: #ffffff;
+        left: 2425px;
+        top: 1080px;
+
+    }
+
+    75% {
+        background-color: #1074c5;
+        left: 0px;
+        top: 1080px;
+
+    }
+
+    100% {
+        background-color: #ffffff;
+        left: 0px;
+        top: 0px;
+
+    }
+}
+
+
+.box3 {
+    margin: 1rem;
+    background-color: #1074c5;
+    position: absolute;
+    bottom: 22rem;
+    height: 10rem;
+    width: 10rem;
+    animation: box3 12s ease-in-out infinite;
+     animation-delay: 6s;
+}
+
+@keyframes box3 {
+    0% {
+        background-color: #1074c5;
+        left: 0px;
+        top: 0px;
+
+    }
+
+    25% {
+        background-color: #ffffff;
+        left: 2425px;
+        top: 0px
+    }
+
+    50% {
+        background-color: #1074c5;
+        left: 2425px;
+        top: 1080px;
+
+    }
+
+    75% {
+        background-color: #ffffff;
+        left: 0px;
+        top: 1080px;
+
+    }
+
+    100% {
+        background-color: #1074c5;
+        left: 0px;
+        top: 0px;
+
+    }
+}
+
+.box4 {
+    margin: 1rem;
+    background-color: #ffffff;
+    position: absolute;
+    bottom: 33rem;
+    height: 10rem;
+    width: 10rem;
+    animation: box4 12s ease-in-out infinite;
+    animation-delay: 9s;
+}
+
+@keyframes box4 {
+    0% {
+        background-color: #ffffff;
+        left: 0px;
+        top: 0px;
+
+    }
+
+    25% {
+        background-color: #1074c5;
+        left: 2425px;
+        top: 0px
+    }
+
+    50% {
+        background-color: #ffffff;
+        left: 2425px;
+        top: 1080px;
+
+    }
+
+    75% {
+        background-color: #1074c5;
+        left: 0px;
+        top: 1080px;
+
+    }
+
+    100% {
+        background-color: #ffffff;
+        left: 0px;
+        top: 0px;
+
+    }
+}

@@ -8,3 +8,23 @@ Excited to keep learning, improving, and building one section at a time. 🌱�
 
 #WebDevelopment #LearningInPublic #DigitalPathshala #PortfolioJourney #MilestoneAchieved
 
+
+
+
+
+
+I'm super happy to share that I’ve officially finished building my complete portfolio website as part of my web development bootcamp at Digital Pathshala.
+
+This project really pushed me to learn, experiment, and bring all the pieces together — and seeing it finally come to life feels amazing! 😄💻
+
+Grateful for the guidance and support throughout the journey.
+One project down… many more to go! 🚀
+
+You can check the site here: "https://bishnu-portfolio-dusky.vercel.app/". 
+
+Tools and Platforms used :
+Usebasin: https://usebasin.com/  (used to link my gmail in form)
+Vercel: https://vercel.com/ (used to host the site)
+Bootsstrap: https://getbootstrap.com/ (used for templates such  as buttons and slider animation)
+
+#WebDevelopment #PortfolioComplete #LearningInPublic #DigitalPathshala #HappyMoment
